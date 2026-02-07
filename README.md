@@ -1,5 +1,4 @@
-
-# hey, i'm shivangi 👋
+# Hola, I'm shivangi 👋
 
 i’m a software developer with 3+ years of experience, learning how to build real, life-changing things with code.  
 i enjoy solving technical problems and helping people grow by sharing what i learn through
@@ -16,12 +15,16 @@ i enjoy solving technical problems and helping people grow by sharing what i lea
 
 ## 📬 let’s connect
 
-- github → https://github.com/shivangi-2001
-- linkedin → https://linkedin.com/in/shivangi-keshri-62751a24b/
-- medium → https://medium.com/@meetwithIT
-- mail → shivangikeshri21@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> **GitHub** → https://github.com/shivangi-2001
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" /> **LinkedIn** → https://linkedin.com/in/shivangi-keshri-62751a24b/
+
+<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="24" /> **Medium** → https://medium.com/@meetwithIT
+
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="24" /> **G-mail** → mailto:shivangikeshri21@gmail.com
 
 ---
+
 
 if you’re building something interesting, i’m always up for a conversation.
 

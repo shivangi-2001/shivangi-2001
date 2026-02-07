@@ -7,7 +7,7 @@ i enjoy solving technical problems and helping people grow by sharing what i lea
 
 ---
 
-## 🛠️ tech i use
+## 🛠️ Tech i use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
